@@ -10,3 +10,8 @@ var x = 20
     let y = 15
 }
 console.log(x)
+
+//let lotto_number = prompt("กรอกเลขที่ต้องการซื้อ")
+//document.getElementById("result").innerHTML = Math.floor(Math.random() * 1000)
+
+
