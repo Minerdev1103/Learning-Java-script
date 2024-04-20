@@ -3,7 +3,7 @@ let sum = ""
 for(var i=0 ; i <round ; i++){
     var answer = prompt("หัว หรือ ก้อย พิมพ์มาเลย")
     var random_answer = ""
-    sum = sum + parseInt(answer)
+    sum = sum + answer
     document.getElementById("game-list").innerHTML += 
     "ทายครั้งที่"+ i +":" +random_answer + "<br>"
     
